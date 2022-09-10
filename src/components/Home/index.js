@@ -1,1 +1,1 @@
-export {default} from './ResumeBuilder';
+export { default } from './ResumeBuilder';
